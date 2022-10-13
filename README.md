@@ -34,7 +34,7 @@ Religious Affiliation and Intensity:
 
 [![religious-LU.png](https://i.postimg.cc/kDrG0c0T/religious-LU.png)](https://postimg.cc/wRV9JhTN)
 
-Social Issues and Intensity
+Social Issues and Intensity:
 
 [![socialissue-LU.png](https://i.postimg.cc/ryDJLp64/socialissue-LU.png)](https://postimg.cc/PNkZWT5f)
 
