@@ -1,5 +1,9 @@
 # designADatabase
-In this project, my team was responsible for creating a database that will maintain core identity information on all entries, however, the database also maintains the ability to build a core identity when information on a target is sparse (core). The database will be able to handle data farmed from social media platforms like Fakebook, Twitter, Instagram, etc (input). The database will also be able to handle a variety of products, services or opinions for which preferences can be tracked for each person in the database based on analyzing their data (output). 
+CORE - In this project, my team was responsible for creating a database to maintain core identity information on all entries, however, the database also maintains the ability to build a core identity when information on a target is sparse. 
+
+INPUT - The database will be able to handle data farmed from social media platforms like Fakebook, Twitter, Instagram, etc. 
+
+OUTPUT - The database will also be able to handle a variety of products, services or opinions for which preferences can be tracked for each person in the database based on analyzing their data. 
 
 # ERD
 The preliminary design of my team's database.
